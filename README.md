@@ -128,7 +128,7 @@ sometimes i wander into other people's codebases too — [merged PRs ↗](https:
 
 <!-- DAILY_ASSET:START -->
 <p align="center">
-  <img src="assets/body/15.jpeg" width="600" alt="daily mood" />
+  <img src="assets/body/12.jpeg" width="600" alt="daily mood" />
 </p>
 <!-- DAILY_ASSET:END -->
 
