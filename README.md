@@ -7,7 +7,7 @@ and the background jobs that keep them connected.
 **Currently exploring:** worker coordination and failure recovery in Go
 
 Open to remote full-time roles, paid internships, and contract work.
-[Email me](mailto:ryan@nylo.me) · [Portfolio](https://nylo.me)
+[Email me](mailto:ryan@nylo.me) · [Portfolio](https://ryanakmall.is-a.dev)
 
 ---
 
